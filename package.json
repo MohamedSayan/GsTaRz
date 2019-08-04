@@ -2,7 +2,7 @@
   "name": "bytetch",
   "version": "2.1.0",
   "description": "-- AWESOMENSS --",
-  "main": "bot.js:,
+  "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
 },
