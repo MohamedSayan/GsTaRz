@@ -1,6 +1,0 @@
-token= NjA3NDgxNTUwOTg0MDUyNzM2.XUbgPw.OYtfHANW7TEtLNFPNT9iWreoouI
-owner= 318219860112834572
-prefix= 1
-game= 1help
-stayinchannel=true
-songinstatus=false
